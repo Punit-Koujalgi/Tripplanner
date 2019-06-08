@@ -1,0 +1,7 @@
+insert into flight values (45464,'indigo','Bangalore','Mangalore','2019-03-22','2019-03-30','17800','20-5237415');
+insert into flight values (79794,'spicejet','delhi','Mangalore','2019-03-22','2019-03-30','1080','29-0838341');
+insert into flight values (12154,'indigo','Bangalore','mumbai','2019-03-22','2019-03-30','10900','29-0838341');
+insert into flight values (39635,'kingfisher','Mangalore','surat',2019-03-22','2019-03-30','189000','43-7347830');
+insert into flight values (45845,'spicejet','surat','Bangalore','2019-03-22','2019-03-30','10000','51-0014482');
+insert into flight values (45464,'indigo','mumbai','Mangalore','2019-03-22','2019-03-30','80000','59-9023249');
+insert into flight values (45464,'indigo','mumbai','surat','2019-03-22','2019-03-30','60000','59-9023249');	
